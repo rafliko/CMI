@@ -1,7 +1,4 @@
-#hh
-{
-    color: purple;
-}
+
 
 #p1{
     font-size: larger;
@@ -11,7 +8,7 @@
     margin: 0;
   }
   
-  
+
  
   #header {
     padding: 60px;
@@ -19,4 +16,9 @@
     background: #1abc9c;
     color: white;
     font-size: 30px;
+  }
+  #myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
   }
