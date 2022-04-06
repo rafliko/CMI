@@ -6,3 +6,17 @@
 #p1{
     font-size: larger;
 }
+#body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  
+ 
+  #header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
